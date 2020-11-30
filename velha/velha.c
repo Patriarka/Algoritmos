@@ -5,8 +5,8 @@
 
 int main()
 {
-	char j1, j2;
-	int vez;
+    char j1, j2;
+    int vez;
     char vetor[9];
 
     while(menu() != 0){
